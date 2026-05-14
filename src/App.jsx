@@ -3,6 +3,7 @@ import './App.css'
 function App() {
   const participants = [
     'Alice',
+    "Yuya",
     'Haruki',
     'shamo',
     'kariyan',
