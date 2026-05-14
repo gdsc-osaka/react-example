@@ -4,6 +4,12 @@ function App() {
   const participants = [
     'Alice',
     "Yuya",
+    'Haruki',
+    'shamo',
+    'kariyan',
+    'Aiki'
+    'Richard',
+    'Ota Taichi',
   ]
 
   return (
